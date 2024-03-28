@@ -13,8 +13,8 @@ import ClientOnly from "./components/ClientOnly";
 import getCurrentUser from "./actions/getCurrentUser";
 
 export const metadata = {
-  title: "Homiio",
-  description: "Homiio Clone",
+  title: "Homiio - Find your home",
+  description: "Skip the agency markup. Find your home on Homiio.",
 };
 
 const font = Nunito({
